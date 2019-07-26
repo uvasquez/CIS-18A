@@ -73,7 +73,7 @@ class CoffeeShop
             String[] coffee = new coffee
 
             int choice = Integer.parseInt(sc.nextLine());
-            if (choice == 1)
+            if (choice == 1)//enters
             {
                         System.out.println("1.Snacks \n2.Coffee\n3.Tea");
             }
